@@ -1,0 +1,88 @@
+{
+    "users" : [
+        {
+            "id" : 1,
+            "name" : "Eko Purnama Azi",
+            "alamat" : "Jl Kh Mohamad Idris",
+            "umur" : 21,
+            "notlpn" : "08381751021"
+        },
+        {
+            "id" : 2,
+            "name" : "Ifan Kurniawan",
+            "alamat" : "Jl Kh Wohyono",
+            "umur" : 21,
+            "notlpn" : "08381759128"
+        },
+        {
+            "id" : 3,
+            "name" : "Sulistiani",
+            "alamat" : "Jl Kh Mohamad Idris",
+            "umur" : 28,
+            "notlpn" : "083817511201"
+        },
+        {
+            "id" : 4,
+            "name" : "Andryan",
+            "alamat" : "Jl Kh Mohamad Saryudi",
+            "umur" : 22,
+            "notlpn" : "083817510293"
+        },
+        {
+            "id" : 5,
+            "name" : "Hari Purnomo",
+            "alamat" : "Jl Kh Umar Hamrullah",
+            "umur" : 18,
+            "notlpn" : "083817510210"
+        },
+        {
+            "id" : 6,
+            "name" : "Haki Rahmatullah",
+            "alamat" : "Jl Kh Wohyono",
+            "umur" : 23,
+            "notlpn" : "083817591213"
+        },
+        {
+            "id" : 7,
+            "name" : "Muhamad Erland",
+            "alamat" : "Jl Pondok Cilegon Indah",
+            "umur" : 22,
+            "notlpn" : "083817511000"
+        },
+        {
+            "id" : 8,
+            "name" : "Rama Kurniawan",
+            "alamat" : "Jl Batu Bara Besar Hitam",
+            "umur" : 20,
+            "notlpn" : "0838175911091"
+        },
+        {
+            "id" : 9,
+            "name" : "Muhamad Faiq",
+            "alamat" : "Jl gondara Sakti",
+            "umur" : 22,
+            "notlpn" : "083817511000"
+        },
+        {
+            "id" : 10,
+            "name" : "Iip Wahdullah",
+            "alamat" : "Jl Batu Bara Besar Hitam",
+            "umur" : 29,
+            "notlpn" : "0838175911091"
+        },
+        {
+            "id" :11,
+            "name" : "Muhamad Surya",
+            "alamat" : "Jl Rokok Surya",
+            "umur" : 25,
+            "notlpn" : "083817511000"
+        },
+        {
+            "id" : 12,
+            "name" : "Muhamad Uweng",
+            "alamat" : "Jl Bima Gondara Ampel",
+            "umur" : 27,
+            "notlpn" : "0838175911111"
+        }
+    ]
+}
